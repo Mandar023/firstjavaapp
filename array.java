@@ -10,7 +10,6 @@ System.out.println(array[i]);
 }
 }
 catch(Exception e) {
-  //  Block of code to handle errors
 }
 
 }
